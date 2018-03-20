@@ -9,7 +9,7 @@ from oauth2client.file import Storage
 
 # Script universal variables
 SCOPES = 'https://www.googleapis.com/auth/admin.directory.user'
-CLIENT_SECRET_FILE = 'P:\\service_acccount_keys\\google_aps_client_secret.json'
+CLIENT_SECRET_FILE = 'CLIENT_SECRET_FILEPATH'
 APPLICATION_NAME = 'Google Directory List Users'
 
 
